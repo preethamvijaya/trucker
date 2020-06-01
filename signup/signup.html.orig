@@ -2,10 +2,10 @@
 <html>
 <head>
 <<<<<<< HEAD
-	<link>check local</link>
+	<link>123</link>
 =======
-	<link>check 2 remote</link>
->>>>>>> 109730e860da97a370c6f7b7f93d5d5ff6e422dd
+	<link>456</link>
+>>>>>>> b392c8be2b02cf2ee85326dca40c54a89eb512d1
 	<title>This is Signup page</title>
 </head>
 <body>
