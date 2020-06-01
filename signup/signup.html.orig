@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<<<<<<< HEAD
+	<link>check local</link>
+=======
+	<link>check 2 remote</link>
+>>>>>>> 109730e860da97a370c6f7b7f93d5d5ff6e422dd
+	<title>This is Signup page</title>
+</head>
+<body>
+this is signup form
+</body>
+</html>
